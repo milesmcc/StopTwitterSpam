@@ -1,0 +1,10 @@
+{
+  "name": "StopTwitterSpam",
+  "version": "0.1",
+  "description": "Anything beyond two hashtags is excessive. This extension hides tweets with more than three hashtags.",
+  "content_scripts": [{
+    "js": ["js/jquery.js", "js/purge.js"],
+    "matches": ["https://twitter.com/*"]
+  }],
+  "manifest_version": 2
+}
