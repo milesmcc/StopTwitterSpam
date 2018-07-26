@@ -6,5 +6,14 @@
     "js": ["js/jquery.js", "js/purge.js"],
     "matches": ["https://twitter.com/*"]
   }],
+  "icons": {
+    "72": "img/hdpi.png",
+    "36": "img/ldpi.png",
+    "48": "img/mdpi.png",
+    "128": "img/target.png",
+    "96": "img/xhdpi.png",
+    "144": "img/xxhdpi.png",
+    "192": "img/xxxhdpi.png"
+  },
   "manifest_version": 2
 }
