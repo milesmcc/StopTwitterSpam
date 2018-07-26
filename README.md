@@ -4,9 +4,10 @@
   <p align="center">
      Because anything beyond two hashtags is excessive.
     <br>
+    <br>
     <strong>Install StopTwitterSpam on...</strong>
     <br>
-    <a href="https://addons.mozilla.org/en-US/firefox/addon/stoptwitterspam/">Firefox</a> or <a href="https://chrome.google.com/webstore/detail/stoptwitterspam/deffhkogioklbgoopnchedbbmfeeoegm">Chrome</a>
+    <strong><a href="https://addons.mozilla.org/en-US/firefox/addon/stoptwitterspam/">Firefox</a> or <a href="https://chrome.google.com/webstore/detail/stoptwitterspam/deffhkogioklbgoopnchedbbmfeeoegm">Chrome</a></strong>
   </p>
 </p>
 
