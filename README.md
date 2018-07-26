@@ -6,7 +6,7 @@
     <br>
     <strong>Install StopTwitterSpam on...</strong>
     <br>
-    <a href="">Firefox</a> or <a href="">Chrome</a>
+    <a href="https://addons.mozilla.org/en-US/firefox/addon/stoptwitterspam/">Firefox</a> or <a href="https://chrome.google.com/webstore/detail/stoptwitterspam/deffhkogioklbgoopnchedbbmfeeoegm">Chrome</a>
   </p>
 </p>
 
