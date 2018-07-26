@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="img/target.png">
+  <img align="center" src="img/target.png" width="75px">
 
   <p align="center">
      Because anything beyond two hashtags is excessive.
